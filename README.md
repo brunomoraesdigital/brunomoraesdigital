@@ -36,7 +36,7 @@
 
 ## Estatísticas do GitHub
 
-![Linguagens Mais Utilizadas](https://img.shields.io/github/languages/top/seunome/seurepositorio)
+![Linguagens Mais Utilizadas](https://img.shields.io/github/languages/top/brunomoraesdigital)
 
 
 Obrigado por visitar o meu perfil! 😊
