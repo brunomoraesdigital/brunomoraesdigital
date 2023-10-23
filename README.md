@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- 👨‍💻 Sou um profissional digital e apaixonado por programação.
+- 👨‍💻 Me chamo Bruno, sou um profissional digital e apaixonado por programação.
 - ✨ Desenvolvedor Web Full-Stack, focado em tecnologias como HTML, CSS, JavaScript, Python e C/C++.
 - 📚 Aprendizado: Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 - 📷 Explorando o mundo da fotografia e aprimorando minhas habilidades de captura.
