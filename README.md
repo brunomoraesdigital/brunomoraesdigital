@@ -36,7 +36,8 @@
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunomoraesdigital)](https://github.com/brunomoraesdigital)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunomoraesdigital&show_icons=true&hide=stars)](https://github.com/brunomoraesdigital)
+
 
 
 
