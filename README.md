@@ -8,7 +8,7 @@
 - 📷 Explorando o mundo da fotografia e aprimorando minhas habilidades de captura.
 - 🎨 Representa design e criatividade.
 
-- ## Minha Missão
+## Minha Missão
 
 - 💡 Estou em busca constante de conhecimento e habilidades para me tornar um desenvolvedor habilidoso.
 - 🎯 Meu objetivo é criar soluções de código aberto que ajudem e impactem positivamente as pessoas.
