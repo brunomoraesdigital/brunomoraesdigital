@@ -36,7 +36,7 @@
 
 ## Estatísticas do GitHub
 
-![Linguagens Mais Utilizadas](https://img.shields.io/github/languages/top/brunomoraesdigital)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?brunomoraesdigital=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Obrigado por visitar o meu perfil! 😊
