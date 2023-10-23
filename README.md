@@ -36,6 +36,19 @@
 
 ## Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunomoraesdigital&show_icons=true&hide=stars)](https://github.com/brunomoraesdigital)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraesdigital&hide=TeX&layout=compact)
 
 Obrigado por visitar o meu perfil! 😊
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```Javascript
+CONST BRUNO = {
+  nome: "Bruno Moraes",
+  backend: ["", "", ""],
+  frontend: ["", "", ""],
+  database: ["", "", ""],
+  objetivos: ["",  "", "", "", "", "", "", "", ""],
+  desafios: "texto aqui"
+}
+```
