@@ -36,7 +36,8 @@
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true)](https://github.com/seunome)
+![Linguagens Mais Utilizadas](https://img.shields.io/github/languages/top/seunome/seurepositorio)
+
 
 Obrigado por visitar o meu perfil! 😊
 <!--
