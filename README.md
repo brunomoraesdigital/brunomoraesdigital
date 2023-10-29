@@ -14,7 +14,7 @@ const BRUNO = {
     frameworks: ["Laravel", "Angular"],
     plataformas: ["Firebase", "Node.js"],
     objetivos: ["Portfolio",  "Sites", "Aplicações Móveis", "Aplicações Desktop", "Aplicações Web", "Aplicações de Nuvem", "Jogos", "Artigos", "Fotos", "Ilustraçoes"],
-    desafios: "Desenvolver um jogo web simples. O objetivo é passar por todo o processo de desenvolvimento, desde a concepção da ideia até a implantação do jogo.",
+    desafios: "Desenvolver um jogo web simples, passando por todo o processo de desenvolvimento, desde a concepção da ideia até a implantação do jogo.",
   }
 ````
 
@@ -27,22 +27,25 @@ const BRUNO = {
 ## Minha Jornada
 ### Linguagens e Ferramentas
 <table>
-    <tr>
-      <th>Tecnologia</th>
-      <th>Jornada</th>
-    </tr>
-    <tr><td>JavaScript</td><td>❤❤🤍🤍🤍🤍</td></tr>
-    <tr><td>HTML</td><td>❤❤❤❤🤍🤍</td></tr>
-    <tr><td>CSS</td><td>❤❤❤❤🤍🤍</td></tr>
-    <tr><td>C/C++</td><td>❤🤍🤍🤍🤍🤍</td></tr>
-    <tr><td>Laravel</td><td>❤🤍🤍🤍🤍🤍</td></tr>
-    <tr><td>Angular</td><td>❤🤍🤍🤍🤍🤍</td></tr>
-    <tr><td>Firebase</td><td>❤🤍🤍🤍🤍🤍</td></tr>
-    <tr><td>node.js</td><td>❤🤍🤍🤍🤍🤍</td></tr>
-    <tr><td>MySQL</td><td>❤🤍🤍🤍🤍🤍</td></tr>
-    <tr><td>Angular</td><td>❤🤍🤍🤍🤍🤍</td></tr>
-    <tr><td>Gitdub</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+  <tr>
+    <th>Tecnologia</th>
+    <th>Jornada</th>
+    <th></th>
+    <th>Tecnologia</th>
+    <th>Jornada</th>
+    <th></th>
+    <th>Tecnologia</th>
+    <th>Jornada</th>
+  </tr>
+  <tr><td>HTML</td><td>❤❤❤❤🤍🤍</td><td></td><td>Angular</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td> ~ </td><td>🤍🤍🤍🤍🤍🤍</td></tr>
+  <tr><td>CSS</td><td>❤❤❤❤🤍🤍</td><td></td><td>Laravel</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td> ~ </td><td>🤍🤍🤍🤍🤍🤍</td></tr>
+  <tr><td>JavaScript</td><td>❤❤🤍🤍🤍🤍</td><td></td><td>Firebase</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td> ~ </td><td>🤍🤍🤍🤍🤍🤍</td></tr>
+  <tr><td>Python</td><td>❤❤🤍🤍🤍🤍</td><td></td><td>Node.js</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td> ~ </td><td>🤍🤍🤍🤍🤍🤍</td></tr>
+  <tr><td>C/C++</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td>Git</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td> ~ </td><td>🤍🤍🤍🤍🤍🤍</td></tr>
+  <tr><td>PHP</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td> ~ </td><td>🤍🤍🤍🤍🤍🤍</td><td></td><td> ~ </td><td>🤍🤍🤍🤍🤍🤍</td></tr>
+  <tr><td>SQL</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td> ~ </td><td>🤍🤍🤍🤍🤍🤍</td><td></td><td> ~ </td><td>🤍🤍🤍🤍🤍🤍</td></tr>
 </table>
+
 
 ### Softwares
 <table>
