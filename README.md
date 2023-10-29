@@ -6,23 +6,54 @@
 - ✨ Desenvolvendo habilidades em tecnologias como HTML, CSS, JavaScript, Python e C/C++, entre outras.
 - 📚 Estou comprometido com o aprendizado contínuo, buscando constantemente aprimorar minhas habilidades e me familiarizar com novas tecnologias.
 - 📷 Explorando o mundo da fotografia a fim de aprimorar minhas habilidades também nessa área.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
+```Javascript
+const BRUNO = {
+    nome: "Bruno Moraes",
+    linguagens: ["HTML", "CSS", "JavaScript", "Python", "C/C++", "SQL", "PHP"],
+    frameworks: ["Laravel", "Angular"],
+    plataformas: ["Firebase", "Node.js"],
+    objetivos: ["Portfolio",  "Sites", "Aplicações Móveis", "Aplicações Desktop", "Aplicações Web", "Aplicações de Nuvem", "Jogos", "Artigos", "Fotos", "Ilustraçoes"],
+    desafios: "Desenvolver um jogo web simples. O objetivo é passar por todo o processo de desenvolvimento, desde a concepção da ideia até a implantação do jogo.",
+  }
+````
 
 ## Minha Missão
 
 - 🎯 Criar soluções de código aberto que ajudem e impactem positivamente as pessoas.
 - 🎮 Desenvolver bons jogos para que todos possam se divertir gratuitamente.
 - 📖 Compartilhar meu conhecimento e experiência por meio de artigos, tutoriais e conteúdo de desenvolvimento.
-- 
 
 ## Minha Jornada
-🌱
+### Linguagens e Ferramentas
+<table>
+    <tr>
+      <th>Tecnologia</th>
+      <th>Jornada</th>
+    </tr>
+    <tr><td>JavaScript</td><td>❤❤🤍🤍🤍🤍</td></tr>
+    <tr><td>HTML</td><td>❤❤❤❤🤍🤍</td></tr>
+    <tr><td>CSS</td><td>❤❤❤❤🤍🤍</td></tr>
+    <tr><td>C/C++</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+    <tr><td>Laravel</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+    <tr><td>Angular</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+    <tr><td>Firebase</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+    <tr><td>node.js</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+    <tr><td>MySQL</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+    <tr><td>Angular</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+    <tr><td>Gitdub</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+</table>
 
-
-## Linguagens e Ferramentas
-
-- HTML, CSS, JavaScript, Python e C/C++
-- Laravel, Angular 
-- Git, Visual Studio Code
+### Softwares
+<table>
+    <tr>
+        <th>Softwares</th>
+        <th>Jornada</th>
+    </tr>
+    <tr><td>Adobe Photoshop</td><td>❤❤❤❤🤍🤍</td></tr>
+    <tr><td>Adobe Illustrator</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+    <tr><td>Adobe Premiere</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+</table>
 
 ## Projetos em Destaque
 
@@ -41,14 +72,3 @@
 Obrigado por visitar o meu perfil! 😊
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```Javascript
-CONST BRUNO = {
-  nome: "Bruno Moraes",
-  backend: ["", "", ""],
-  frontend: ["", "", ""],
-  database: ["", "", ""],
-  objetivos: ["",  "", "", "", "", "", "", "", ""],
-  desafios: "texto aqui"
-}
-```
