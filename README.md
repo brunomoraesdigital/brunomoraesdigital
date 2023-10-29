@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- 👨‍💻 Me chamo Bruno, sou um profissional digital e apaixonado por programação.
+- 👨‍💻 Me chamo Bruno Moraes, sou um profissional digital e apaixonado por programação.
 - ✨ Desenvolvendo habilidades em tecnologias como HTML, CSS, JavaScript, Python e C/C++, entre outras.
 - 📚 Estou comprometido com o aprendizado contínuo, buscando constantemente aprimorar minhas habilidades e me familiarizar com novas tecnologias.
 - 📷 Explorando o mundo da fotografia a fim de aprimorar minhas habilidades também nessa área.
