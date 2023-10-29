@@ -3,16 +3,16 @@
 ## Sobre Mim
 
 - 👨‍💻 Me chamo Bruno, sou um profissional digital e apaixonado por programação.
-- ✨ Desenvolvedor Web Full-Stack, focado em tecnologias como HTML, CSS, JavaScript, Python e C/C++.
-- 📚 Aprendizado: Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
-- 📷 Explorando o mundo da fotografia e aprimorando minhas habilidades de captura.
-- 🎨 Inclinação para desenvolver habilidades que envolvam design e criatividade.
+- ✨ Desenvolvendo habilidades em tecnologias como HTML, CSS, JavaScript, Python e C/C++, entre outras.
+- 📚 Estou comprometido com o aprendizado contínuo, buscando constantemente aprimorar minhas habilidades e me familiarizar com novas tecnologias.
+- 📷 Explorando o mundo da fotografia a fim de aprimorar minhas habilidades também nessa área.
 
 ## Minha Missão
 
-- 💡 Estou em busca constante de conhecimento e habilidades para me tornar um desenvolvedor habilidoso.
-- 🎯 Meu objetivo é criar soluções de código aberto que ajudem e impactem positivamente as pessoas.
-- 📖 Planejo compartilhar meu conhecimento e experiência por meio de artigos, tutoriais e conteúdo de desenvolvimento.
+- 🎯 Criar soluções de código aberto que ajudem e impactem positivamente as pessoas.
+- 🎮 Desenvolver bons jogos para que todos possam se divertir gratuitamente.
+- 📖 Compartilhar meu conhecimento e experiência por meio de artigos, tutoriais e conteúdo de desenvolvimento.
+- 
 
 ## Minha Jornada
 🌱
