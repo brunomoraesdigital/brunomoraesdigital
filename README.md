@@ -70,5 +70,3 @@ const BRUNO = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraesdigital&hide=TeX&layout=compact)
 
 Obrigado por visitar o meu perfil! 😊
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
