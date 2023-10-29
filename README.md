@@ -67,6 +67,8 @@ const BRUNO = {
 ## Entre em Contato
 
 - 💬 Vamos aprender juntos! Sinta-se à vontade para entrar em contato comigo.
+- 🔗 [Website & portfólio](https://bmfolio.web.app/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/bruno-moraes-704728145/)
 
 ## Estatísticas do GitHub
 
