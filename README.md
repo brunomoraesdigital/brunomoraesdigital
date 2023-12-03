@@ -40,11 +40,13 @@ const BRUNO = {
 
 
 ### Softwares
-| Softwares            | Jornada                |
-| -------------------- | ---------------------- |
-| Adobe Photoshop      | ❤❤❤❤🤍🤍             |
-| Adobe Illustrator    | ❤🤍🤍🤍🤍🤍           |
-| Adobe Premiere       | ❤🤍🤍🤍🤍🤍           |
+<table>
+  <tr><th>Softwares</th><th>Jornada</th></tr>
+  <tr><td>Adobe Photoshop</td><td>❤❤❤❤🤍🤍</td></tr>
+  <tr><td>Adobe Illustrator</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+  <tr><td>Adobe Premiere</td><td>❤🤍🤍🤍🤍🤍</td></tr>
+</table>
+
 
 
 ## Projetos em Destaque
