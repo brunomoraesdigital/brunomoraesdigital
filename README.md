@@ -11,6 +11,7 @@
 </ul>
 </div>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
+
 ```Javascript
 const BRUNO = {
     nome: "Bruno Moraes",
@@ -45,6 +46,7 @@ const BRUNO = {
   <tr><td>PHP</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td>~</td><td>🤍🤍🤍🤍🤍🤍</td><td></td><td>~</td><td>🤍🤍🤍🤍🤍🤍</td></tr>
   <tr><td>SQL</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td>~</td><td>🤍🤍🤍🤍🤍🤍</td><td></td><td>~</td><td>🤍🤍🤍🤍🤍🤍</td></tr>
 </table>
+
 ### Softwares
 <table>
   <tr><th>Softwares</th><th>Jornada</th></tr>
@@ -52,6 +54,7 @@ const BRUNO = {
   <tr><td>Adobe Illustrator</td><td>❤🤍🤍🤍🤍🤍</td></tr>
   <tr><td>Adobe Premiere</td><td>❤🤍🤍🤍🤍🤍</td></tr>
 </table>
+
 ## Projetos em Destaque
 
 - 🔗 [Projeto 1](link-para-o-projeto-1): Uma breve descrição do primeiro projeto.
@@ -59,7 +62,6 @@ const BRUNO = {
 - 🔗 ...
 
 ## Entre em Contato
-
 - 💬 Vamos aprender juntos! Sinta-se à vontade para entrar em contato comigo.
 - 🔗 [Website & portfólio](https://bmfolio.web.app/)
 - 🔗 [Linkedin](https://www.linkedin.com/in/bruno-moraes-704728145/)
