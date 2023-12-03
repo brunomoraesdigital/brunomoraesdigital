@@ -63,6 +63,7 @@ const BRUNO = {
 - 💬 Vamos aprender juntos! Sinta-se à vontade para entrar em contato comigo.
 - 🔗 [Website & portfólio](https://bmfolio.web.app/)
 - 🔗 [Linkedin](https://www.linkedin.com/in/bruno-moraes-704728145/)
+- 🔗 [Atualizações](https://whatsapp.com/channel/0029VaFHIPF6buMCVChMQc1f)
 
 ## Estatísticas
 <p>
