@@ -1,15 +1,20 @@
 # Boas Vindas ao meu perfil do GitHub! 👋
 
 ## Sobre Mim
-
-- 👨‍💻 Me chamo Bruno Moraes, sou um profissional digital e apaixonado por programação.
-- ✨ Desenvolvendo habilidades em tecnologias como HTML, CSS, JavaScript, Python e C/C++, entre outras.
-- 📚 Estou comprometido com o aprendizado contínuo, buscando constantemente aprimorar minhas habilidades e me familiarizar com novas tecnologias.
-- 📷 Explorando o mundo da fotografia a fim de aprimorar minhas habilidades também nessa área.
+<img style="width: 150px" align="right" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/bruno-bm-folio.png" />
+<div align="left">
+    <ul>
+    <li>👨‍💻 Me chamo Bruno Moraes, sou um profissional digital e apaixonado por programação.</li>
+    <li>✨ Desenvolvendo habilidades em tecnologias como HTML, CSS, JavaScript, Python e C/C++, entre outras.</li>
+    <li>📚 Estou comprometido com o aprendizado contínuo, buscando constantemente aprimorar minhas habilidades e me familiarizar com novas tecnologias.</li>
+    <li>📷 Explorando o mundo da fotografia a fim de aprimorar minhas habilidades também nessa área.</li>
+</ul>
+</div>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
 ```Javascript
 const BRUNO = {
     nome: "Bruno Moraes",
+    localizado_em: "Brasília, Brasil",
     linguagens: ["HTML", "CSS", "JavaScript", "Python", "C/C++", "SQL", "PHP"],
     frameworks: ["Laravel", "Angular"],
     plataformas: ["Firebase", "Node.js"],
@@ -20,9 +25,13 @@ const BRUNO = {
 
 ## Minha Missão
 
-- 🎯 Criar soluções de código aberto que ajudem e impactem positivamente as pessoas.
-- 🎮 Desenvolver bons jogos para que todos possam se divertir gratuitamente.
-- 📖 Compartilhar meu conhecimento e experiência por meio de artigos, tutoriais e conteúdo de desenvolvimento.
+  <div>
+    <ul>
+      <li>🎯 Criar soluções de código aberto que ajudem e impactem positivamente as pessoas.</li>
+      <li>🎮 Desenvolver bons jogos para que todos possam se divertir gratuitamente.</li>
+      <li>📖 Compartilhar meu conhecimento e experiência por meio de artigos, tutoriais e conteúdo de desenvolvimento.</li>
+    </ul>
+  </div>
 
 ## Minha Jornada
 ### Linguagens e Ferramentas
@@ -36,9 +45,6 @@ const BRUNO = {
   <tr><td>PHP</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td>~</td><td>🤍🤍🤍🤍🤍🤍</td><td></td><td>~</td><td>🤍🤍🤍🤍🤍🤍</td></tr>
   <tr><td>SQL</td><td>❤🤍🤍🤍🤍🤍</td><td></td><td>~</td><td>🤍🤍🤍🤍🤍🤍</td><td></td><td>~</td><td>🤍🤍🤍🤍🤍🤍</td></tr>
 </table>
-
-
-
 ### Softwares
 <table>
   <tr><th>Softwares</th><th>Jornada</th></tr>
@@ -46,9 +52,6 @@ const BRUNO = {
   <tr><td>Adobe Illustrator</td><td>❤🤍🤍🤍🤍🤍</td></tr>
   <tr><td>Adobe Premiere</td><td>❤🤍🤍🤍🤍🤍</td></tr>
 </table>
-
-
-
 ## Projetos em Destaque
 
 - 🔗 [Projeto 1](link-para-o-projeto-1): Uma breve descrição do primeiro projeto.
@@ -61,8 +64,19 @@ const BRUNO = {
 - 🔗 [Website & portfólio](https://bmfolio.web.app/)
 - 🔗 [Linkedin](https://www.linkedin.com/in/bruno-moraes-704728145/)
 
-## Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraesdigital&hide=TeX&layout=compact)
+## Estatísticas
+<p>
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraesdigital&hide=TeX&layout=compact"/>
+    </a>
+<p>
+<p>
+    <a href="https://wakatime.com/@018c2de4-3b42-4551-9268-9e1788c74b6f">
+        <img src="https://wakatime.com/badge/user/018c2de4-3b42-4551-9268-9e1788c74b6f.svg" alt="Total time coded since Dec 3 2023"/>
+    </a>
+    <a href="https://visitor-badge.laobi.icu/">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=brunomoraesdigital.visitor-badge" alt="Bruno Moraes Digital"/>
+    </a>
+</p>
 
 Obrigado por visitar o meu perfil! 😊
