@@ -13,7 +13,7 @@
 </ul>
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
+### <a href="#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Um pouco mais sobre mim...
 
 ```Javascript
 const BRUNO = {
