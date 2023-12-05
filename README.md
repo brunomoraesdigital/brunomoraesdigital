@@ -37,7 +37,7 @@ const BRUNO = {
     </ul>
   </div>
 
-## Minha Jornada
+## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/zelda-link.png" width="40"></a> Minha Jornada
 ### Linguagens e Ferramentas
 <table>
   <tr><th>Tecnologia</th><th>Jornada</th><th></th><th>Tecnologia</th><th>Jornada</th><th></th><th>Tecnologia</th><th>Jornada</th></tr>
