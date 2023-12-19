@@ -10,7 +10,7 @@
     <li>✨ Desenvolvendo habilidades em tecnologias como HTML, CSS, JavaScript, Python e C/C++, entre outras.</li>
     <li>📚 Estou comprometido com o aprendizado contínuo, buscando constantemente aprimorar minhas habilidades e me familiarizar com novas tecnologias.</li>
     <li>📷 Explorando o mundo da fotografia a fim de aprimorar minhas habilidades também nessa área.</li>
-</ul>
+   </ul>
 </div>
 
 ### <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Um pouco mais sobre mim...
@@ -208,22 +208,22 @@ const BRUNO = {
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
   </td><td></td><td>zBrush</td><td>
-    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
-    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
-    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
+    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_3.png">
+    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
+    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
   </td></tr>
   <tr><td>Adobe Illustrator</td><td>
-    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
+    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_3.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
   </td><td></td><td> ~ </td><td>
-    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_3.png">
+    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
