@@ -1,7 +1,7 @@
 # Boas Vindas ao meu perfil do GitHub! 👋
 
 ## Sobre Mim
-<a href="#">
+<a href="https://github.com/brunomoraesdigital">
   <img style="width: 150px" align="right" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/bruno-bm-folio.png">
 </a>
 <div align="left">
