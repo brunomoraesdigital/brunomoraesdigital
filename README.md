@@ -44,8 +44,8 @@ const BRUNO = {
   <tr><td>HTML</td><td>
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
-    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_3.png">
+    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
   </td><td></td><td>Angular</td><td>
@@ -65,8 +65,8 @@ const BRUNO = {
   </td></tr>
   <tr><td>CSS</td><td>
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
+    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_3.png">
-    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
