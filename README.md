@@ -22,19 +22,15 @@ const BRUNO = {
     linguagens: ["HTML", "CSS", "JavaScript", "Python", "C/C++", "SQL", "PHP"],
     frameworks: ["Laravel", "Angular"],
     plataformas: ["Firebase", "Node.js"],
-    objetivos: ["Portfolio",  "Sites", "Aplicações Móveis", "Aplicações Desktop", "Aplicações Web", "Aplicações de Nuvem", "Jogos", "Artigos", "Fotos", "Ilustraçoes"],
-    desafios: "Desenvolver um jogo web simples, passando por todo o processo de desenvolvimento, desde a concepção da ideia até a implantação do jogo.",
-  }
+    objetivos: ["Desenvolver aplicações",  "Desenvolver Jogos", "Escrever Artigos", "Fazer Fotos e Ilustraçoes"],
+    desafios: "Desafiando-me a superar limites e aprender constantemente.",
+}
 ````
 
 ## Minha Missão
 
   <div>
-    <ul>
-      <li>🎯 Criar soluções de código aberto que ajudem e impactem positivamente as pessoas.</li>
-      <li>🎮 Desenvolver bons jogos para que todos possam se divertir gratuitamente.</li>
-      <li>📖 Compartilhar meu conhecimento e experiência por meio de artigos, tutoriais e conteúdo de desenvolvimento.</li>
-    </ul>
+    <p>🎯 Desenvolver soluções de código aberto destinadas a impactar positivamente a vida das pessoas, criar experiências envolventes e divertidas por meio de jogos acessíveis a todos, e compartilhar ativamente meu conhecimento e experiência através de artigos, tutoriais e conteúdo de desenvolvimento, contribuindo assim para um ecossistema tecnológico mais colaborativo e inovador.</p>
   </div>
 
 ## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/zelda-link.png" width="40"></a> Minha Jornada
