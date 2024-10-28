@@ -245,7 +245,7 @@ const BRUNO = {
 
 ## Projetos em Destaque
 
-- 🔗 [Projeto 1](link-para-o-projeto-1): Uma breve descrição do primeiro projeto.
+- 🔗 [My Journey - Landing Page](https://brunomoraesdigital.github.io/myjourney/) - Essa landing page foi pensada e desenvolvida por mim como parte do meu aprendizado em desenvolvimento web. Com um design inspirado em revista, ela destaca habilidades, projetos e experiências de forma visual e direta.
 - 🔗 [Projeto 2](link-para-o-projeto-2): Uma breve descrição do segundo projeto.
 - 🔗 ...
 
