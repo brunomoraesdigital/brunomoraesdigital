@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="_4qX_w1fC3YNi98Scg9Okb0LcEuowT8yZ79SCxCtOK0" />
-
 # Boas Vindas ao meu perfil do GitHub! 👋
 
 ## Sobre Mim
