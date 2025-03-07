@@ -6,7 +6,7 @@
 </a>
 <div align="left">
     <ul>
-    <li>👨‍💻 Me chamo Bruno Moraes, sou um profissional digital e apaixonado por programação.</li>
+    <li>👨‍💻 Me chamo Bruno Moraes, sou servidor público, sou um profissional digital e apaixonado por programação.</li>
     <li>✨ Desenvolvendo habilidades em tecnologias como HTML, CSS, JavaScript, Python e C/C++, entre outras.</li>
     <li>📚 Estou comprometido com o aprendizado contínuo, buscando constantemente aprimorar minhas habilidades e me familiarizar com novas tecnologias.</li>
     <li>📷 Explorando o mundo da fotografia a fim de aprimorar minhas habilidades também nessa área.</li>
@@ -22,9 +22,9 @@ const BRUNO = {
     linguagens: ["HTML", "CSS", "JavaScript", "Python", "C/C++", "SQL", "PHP"],
     frameworks: ["Laravel", "Angular"],
     plataformas: ["Firebase", "Node.js"],
-    objetivos: ["Desenvolver aplicações",  "Desenvolver Jogos", "Escrever Artigos", "Fazer Fotos e Ilustraçoes"],
-    desafios: "Desafiando-me a superar limites e aprender constantemente.",
-}
+    objetivos: ["Desenvolver aplicações", "Desenvolver Jogos", "Escrever Artigos", "Fazer Fotos e Ilustrações"],
+    desafios: "Desafio-me a superar os limites que a vida adulta impõe, sigo aprendendo constantemente."
+};
 ````
 
 ## Minha Missão
@@ -40,7 +40,7 @@ const BRUNO = {
   <tr><td>HTML</td><td>
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
-    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_3.png">
+    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
@@ -62,8 +62,8 @@ const BRUNO = {
   <tr><td>CSS</td><td>
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
+    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_3.png">
-    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
   </td><td></td><td>Laravel</td><td>
@@ -83,8 +83,8 @@ const BRUNO = {
   </td></tr>
   <tr><td>JavaScript</td><td>
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
+    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_3.png">
-    <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
