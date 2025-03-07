@@ -9,7 +9,7 @@
     <li>👨‍💻 Me chamo Bruno Moraes.</li>
     <li>👔 Trabalho como servidor público.</li>
     <li>✨ Programação é meu passatempo favorito, mas também gosto de ler livros e mangas</li>
-    <li>📚 Em meio às responsabilidades e exigências diárias, procuro encontrar espaço para continuar me desenvolvendo</li>
+    <li>📚 Em meio às responsabilidades e exigências diárias, procuro encontrar espaço para continuar me desenvolvendo como profissional digital.</li>
     <li>📷 Explorando o mundo da fotografia a fim de aprimorar minhas habilidades também nessa área.</li>
    </ul>
 </div>
