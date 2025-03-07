@@ -6,9 +6,10 @@
 </a>
 <div align="left">
     <ul>
-    <li>👨‍💻 Me chamo Bruno Moraes, sou servidor público, sou um profissional digital e apaixonado por programação.</li>
-    <li>✨ Desenvolvendo habilidades em tecnologias como HTML, CSS, JavaScript, Python e C/C++, entre outras.</li>
-    <li>📚 Estou comprometido com o aprendizado contínuo, buscando constantemente aprimorar minhas habilidades e me familiarizar com novas tecnologias.</li>
+    <li>👨‍💻 Me chamo Bruno Moraes.</li>
+    <li>👔 Trabalho como servidor público.</li>
+    <li>✨ Programação é meu passatempo favorito, mas também gosto de ler livros e mangas</li>
+    <li>📚 Em meio às responsabilidades e exigências diárias, procuro encontrar espaço para continuar me desenvolvendo</li>
     <li>📷 Explorando o mundo da fotografia a fim de aprimorar minhas habilidades também nessa área.</li>
    </ul>
 </div>
