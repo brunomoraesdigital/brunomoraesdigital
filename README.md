@@ -6,7 +6,7 @@
 </a>
 <div align="left">
     <ul>
-      <li>👨‍💻 Me chamo Bruno Moraes.</li>
+      <li>👨‍💻 Me chamo Bruno Moraes, sou um profissional digital e apaixonado por programação.</li>
       <li>🌎 Sou de Brasília, Brasil.</li>
       <li>👔 Trabalho como servidor público.</li>
       <li>✨ Programação é meu passatempo favorito, mas também gosto de ler livros e mangas</li>
