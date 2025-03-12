@@ -205,7 +205,7 @@ const BRUNO = {
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
-  </td><td></td><td>zBrush</td><td>
+  </td><td></td><td> ~ </td><td>
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
