@@ -271,6 +271,9 @@ const BRUNO = {
     </a>
 </p>
 
+## Se você gosta do meu conteúdo, considere apoiar o que eu faço. Obrigado.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O31CFDL8)
 
-Obrigado por visitar o meu perfil! 😊
+## Volte Sempre!
+### Obrigado por visitar o meu perfil! 😊
