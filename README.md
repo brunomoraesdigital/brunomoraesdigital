@@ -21,10 +21,10 @@
 const BRUNO = {
     nome: "Bruno Moraes",
     localizado_em: "Brasília, Brasil",
-    linguagens: ["HTML", "CSS", "JavaScript", "Python", "C/C++", "SQL", "PHP"],
+    linguagens: ["HTML", "CSS", "JavaScript", Kotlin, C#, "Python", "SQL", "PHP", "C/C++"],
     frameworks: ["Laravel", "Angular"],
     plataformas: ["Firebase", "Node.js"],
-    objetivos: ["Desenvolver aplicações", "Desenvolver Jogos", "Escrever Artigos", "Fazer Fotos e Ilustrações"],
+    objetivos: ["Desenvolver Jogos","Desenvolver aplicações", "Escrever Artigos", "Fazer Fotos e Ilustrações"],
     desafios: "Desafio-me a superar os limites que a vida adulta impõe, sigo aprendendo constantemente."
 };
 ````
@@ -156,7 +156,7 @@ const BRUNO = {
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
-  </td><td></td><td>~</td><td>
+  </td><td></td><td>C#</td><td>
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
@@ -178,7 +178,7 @@ const BRUNO = {
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
-  </td><td></td><td>~</td><td>
+  </td><td></td><td>Kotlin</td><td>
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     <img style="width: 10px"  src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
