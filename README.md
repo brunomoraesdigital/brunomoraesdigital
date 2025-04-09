@@ -21,7 +21,7 @@
 const BRUNO = {
     nome: "Bruno Moraes",
     localizado_em: "Brasília, Brasil",
-    linguagens: ["HTML", "CSS", "JavaScript", Kotlin, C#, "Python", "SQL", "PHP", "C/C++"],
+    linguagens: ["HTML", "CSS", "JavaScript", "Kotlin", "C#", "Python", "SQL", "PHP", "C/C++"],
     frameworks: ["Laravel", "Angular"],
     plataformas: ["Firebase", "Node.js"],
     objetivos: ["Desenvolver Jogos","Desenvolver aplicações", "Escrever Artigos", "Fazer Fotos e Ilustrações"],
