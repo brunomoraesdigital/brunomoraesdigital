@@ -23,7 +23,7 @@ const BRUNO = {
     localizado_em: "Brasília, Brasil",
     linguagens: ["HTML", "CSS", "JavaScript", "Kotlin", "C#", "Python", "SQL", "PHP", "C/C++"],
     frameworks: ["Laravel", "Angular"],
-    plataformas: ["Firebase", "Node.js"],
+    plataformas: ["Firebase", "Ecossistema Node.js"],
     objetivos: ["Desenvolver Jogos","Desenvolver aplicações", "Escrever Artigos", "Fazer Fotos e Ilustrações"],
     desafios: "Desafio-me a superar os limites que a vida adulta impõe, sigo aprendendo constantemente."
 };
