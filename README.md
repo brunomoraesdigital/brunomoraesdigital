@@ -1,6 +1,6 @@
 # Boas Vindas ao meu perfil do GitHub! 👋
 
-## Sobre Mim
+## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/mago.png" width="35"></a> Sobre Mim
 <a href="#">
   <img style="width: 150px" align="right" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/eu-3d.png">
 </a>
