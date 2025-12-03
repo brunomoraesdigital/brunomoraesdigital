@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 <a href="#">
-  <img style="width: 150px" align="right" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/bruno-bm-folio.png">
+  <img style="width: 150px" align="right" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/eu-3d.png">
 </a>
 <div align="left">
     <ul>
