@@ -35,7 +35,7 @@ const BRUNO = {
     <p>🎯 Desenvolver soluções de código aberto destinadas a impactar positivamente a vida das pessoas, criar experiências envolventes e divertidas por meio de jogos acessíveis a todos, e compartilhar ativamente meu conhecimento e experiência através de artigos, tutoriais e conteúdo de desenvolvimento, contribuindo assim para um ecossistema tecnológico mais colaborativo e inovador.</p>
   </div>
 
-## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/zelda-link.png" width="40"></a> Minha Jornada
+## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/jornada.png" width="35"></a> Minha Jornada
 ### Linguagens e Ferramentas
 <table>
   <tr><th>Tecnologia</th><th>Jornada</th><th></th><th>Tecnologia</th><th>Jornada</th><th></th><th>Tecnologia</th><th>Jornada</th></tr>
