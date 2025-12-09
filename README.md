@@ -257,11 +257,7 @@ const BRUNO = {
 - 🔗 [Linkedin](https://www.linkedin.com/in/bruno-moraes-704728145/)
 
 ## Estatísticas
-<p>
-    <a href="https://github.com/anuraghazra/convoychat">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraesdigital&hide=TeX&layout=compact"/>
-    </a>
-<p>
+
 <p>
     <a href="https://wakatime.com/@018c2de4-3b42-4551-9268-9e1788c74b6f">
         <img src="https://wakatime.com/badge/user/018c2de4-3b42-4551-9268-9e1788c74b6f.svg" alt="Total time coded since Dec 3 2023"/>
