@@ -15,6 +15,13 @@
    </ul>
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Moraes-0A66C2?logo=linkedin)](https://www.linkedin.com/in/bruno-moraes-704728145)
+[![Instagram](https://img.shields.io/badge/Instagram-Bruno%20Moraes-E4405F?logo=instagram)](https://instagram.com/bruno._moraes._)
+[![X](https://img.shields.io/badge/x-Bruno%20Moraes-181717?logo=x)](https://x.com/brndrln)
+[![TikTok](https://img.shields.io/badge/TikTok-Bruno%20Moraes-833AB4?logo=tiktok)](https://www.tiktok.com/@bruno_moraes_)
+[![YouTube](https://img.shields.io/badge/YouTube-Bruno%20Moraes-FF0000?logo=youtube)](https://youtube.com/brunomoraes)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Bruno%20Moraes-F77737?logo=google-chrome)](https://bmfolio.web.app)
+
 ### <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Um pouco mais sobre mim...
 
 ```Javascript
@@ -28,6 +35,7 @@ const BRUNO = {
     desafios: "Desafio-me a superar os limites que a vida adulta impõe, sigo aprendendo constantemente."
 };
 ````
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,sql,php,c#,cs)](https://github.com/brunomoraesdigital)
 
 ## Minha Missão
 
@@ -258,6 +266,15 @@ const BRUNO = {
 
 ## Estatísticas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraesdigital&layout=compact&theme=dark)](https://github.com/brunomoraesdigital?tab=repositories)
+
+
+
+
+
+
+
+
 <p>
     <a href="https://wakatime.com/@018c2de4-3b42-4551-9268-9e1788c74b6f">
         <img src="https://wakatime.com/badge/user/018c2de4-3b42-4551-9268-9e1788c74b6f.svg" alt="Total time coded since Dec 3 2023"/>
@@ -266,6 +283,12 @@ const BRUNO = {
         <img src="https://visitor-badge.laobi.icu/badge?page_id=brunomoraesdigital.visitor-badge" alt="Bruno Moraes Digital"/>
     </a>
 </p>
+
+## Repositórios
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/pong)
+
+
 
 ## Se você gosta do meu conteúdo, considere apoiar o que eu faço. Obrigado.
 
