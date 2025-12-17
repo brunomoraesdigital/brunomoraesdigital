@@ -15,12 +15,12 @@
    </ul>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Moraes-0A66C2?logo=linkedin)](https://www.linkedin.com/in/bruno-moraes-704728145)
-[![Instagram](https://img.shields.io/badge/Instagram-Bruno%20Moraes-E4405F?logo=instagram)](https://instagram.com/bruno._moraes._)
-[![X](https://img.shields.io/badge/x-Bruno%20Moraes-181717?logo=x)](https://x.com/brndrln)
-[![TikTok](https://img.shields.io/badge/TikTok-Bruno%20Moraes-833AB4?logo=tiktok)](https://www.tiktok.com/@bruno_moraes_)
-[![YouTube](https://img.shields.io/badge/YouTube-Bruno%20Moraes-FF0000?logo=youtube)](https://youtube.com/brunomoraes)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Bruno%20Moraes-F77737?logo=google-chrome)](https://bmfolio.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Moraes-0A66C2?logo=linkedin)](https://www.linkedin.com/in/bruno-moraes-704728145)
+[![YouTube](https://img.shields.io/badge/YouTube-Bruno%20Moraes-FF0000?logo=youtube)](https://youtube.com/brunomoraes)
+[![Instagram](https://img.shields.io/badge/Instagram-Bruno%20Moraes-E4405F?logo=instagram)](https://instagram.com/bruno._moraes._)
+[![TikTok](https://img.shields.io/badge/TikTok-Bruno%20Moraes-833AB4?logo=tiktok)](https://www.tiktok.com/@bruno_moraes_)
+
 
 ### <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Um pouco mais sobre mim...
 
