@@ -276,12 +276,6 @@ const BRUNO = {
 - 🧪 Experimentos com lógica de jogo
 - 📸 Projetos visuais e criativos
 
-
-## Entre em Contato
-- 💬 Vamos aprender juntos! Sinta-se à vontade para entrar em contato comigo.
-- 🔗 [Website & portfólio](https://bmfolio.web.app/)
-- 🔗 [Linkedin](https://www.linkedin.com/in/bruno-moraes-704728145/)
-
 ## Estatísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraesdigital&layout=compact&theme=dark)](https://github.com/brunomoraesdigital?tab=repositories)
@@ -295,15 +289,10 @@ const BRUNO = {
     </a>
 </p>
 
-## Repositórios
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/pong)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/dio-piano)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/calculadora-com-javascript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/dio-projeto-listagem-de-pokemon-js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/myjourney)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/dio-memory-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/dio-detona-ralph)
+## Entre em Contato
+- 💬 Vamos aprender juntos! Sinta-se à vontade para entrar em contato comigo.
+  - 🔗 [Website & portfólio](https://bmfolio.web.app/)
+  - 🔗 [Linkedin](https://www.linkedin.com/in/bruno-moraes-704728145/)
 
 ## Se você gosta do meu conteúdo, considere apoiar o que eu faço. Obrigado.
 
