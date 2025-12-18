@@ -6,7 +6,7 @@
 </a>
 <div align="left">
     <ul>
-      <li>👨‍💻 Me chamo Bruno Moraes, sou um profissional digital e apaixonado por programação.</li>
+      <li>👨‍💻 Me chamo Bruno Moraes</li>
       <li>🌎 Sou de Brasília, Brasil.</li>
       <li>👔 Trabalho como servidor público.</li>
       <li>✨ Programação é meu passatempo favorito, mas também gosto de ler livros e mangas</li>
@@ -15,11 +15,11 @@
    </ul>
 </div>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-Bruno%20Moraes-F77737?logo=google-chrome)](https://bmfolio.web.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-bmfolio.web.app-F77737?logo=google-chrome)](https://bmfolio.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Moraes-0A66C2?logo=linkedin)](https://www.linkedin.com/in/bruno-moraes-704728145)
-[![YouTube](https://img.shields.io/badge/YouTube-Bruno%20Moraes-FF0000?logo=youtube)](https://youtube.com/brunomoraes)
-[![Instagram](https://img.shields.io/badge/Instagram-Bruno%20Moraes-E4405F?logo=instagram)](https://instagram.com/bruno._moraes._)
-[![TikTok](https://img.shields.io/badge/TikTok-Bruno%20Moraes-833AB4?logo=tiktok)](https://www.tiktok.com/@bruno_moraes_)
+[![YouTube](https://img.shields.io/badge/YouTube-@brunomoaes-FF0000?logo=youtube)](https://youtube.com/brunomoraes)
+[![Instagram](https://img.shields.io/badge/Instagram-bruno.__moraes.__-E4405F?logo=instagram)](https://instagram.com/bruno._moraes._)
+[![TikTok](https://img.shields.io/badge/TikTok-bruno__moraes_-833AB4?logo=tiktok)](https://www.tiktok.com/@bruno_moraes_)
 
 
 ### <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Um pouco mais sobre mim...
@@ -31,11 +31,12 @@ const BRUNO = {
     linguagens: ["HTML", "CSS", "JavaScript", "Kotlin", "C#", "Python", "SQL", "PHP", "C/C++"],
     frameworks: ["Laravel", "Angular"],
     plataformas: ["Firebase", "Ecossistema Node.js"],
-    objetivos: ["Desenvolver Jogos","Desenvolver aplicações", "Escrever Artigos", "Fazer Fotos e Ilustrações"],
-    desafios: "Desafio-me a superar os limites que a vida adulta impõe, sigo aprendendo constantemente."
+    objetivos: ["Desenvolver Jogos","Desenvolver aplicações", "Escrever Artigos", "Fazer Fotos e Ilustrações", "Escrever Livros"],
+    desafios: "Superar os limites que a vida adulta impõe."
 };
 ````
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,sql,php,c#,cs)](https://github.com/brunomoraesdigital)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,cs,python,mysql,php,c,cpp,laravel,angular,firebase,nodejs)](https://github.com/brunomoraesdigital)
+
 
 ## Minha Missão
 
