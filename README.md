@@ -269,7 +269,6 @@ const BRUNO = {
 
 - 🔗 [My Journey - Landing Page](https://brunomoraesdigital.github.io/myjourney/) - Essa landing page foi pensada e desenvolvida por mim como parte do meu aprendizado em desenvolvimento web. Com um design inspirado em revista, ela destaca habilidades, projetos e experiências de forma visual e direta.
 - 🔗 [Pong Game](https://brunomoraesdigital.github.io/pong/) - Este é um joguinho do clássico Pong, foi desenvolvido como parte do meu aprendizado em desenvolvimento web, a fim de praticar o uso de JavaScript para manipulação de elementos no DOM e lógica de jogo, e melhorar as habilidades de design e responsividade com CSS e estruturar com HTML.
-- 🔗 [Projetos em evolução contínua]( ):
 
 ## 🛠️ Em Construção
 - 🎮 Jogo 2D em JavaScript
