@@ -21,7 +21,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-bruno.__moraes.__-E4405F?logo=instagram)](https://instagram.com/bruno._moraes._)
 [![TikTok](https://img.shields.io/badge/TikTok-bruno__moraes_-833AB4?logo=tiktok)](https://www.tiktok.com/@bruno_moraes_)
 
-
 ### <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Um pouco mais sobre mim...
 
 ```Javascript
@@ -36,7 +35,6 @@ const BRUNO = {
 };
 ````
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,cs,python,mysql,php,c,cpp,laravel,angular,firebase,nodejs)](https://github.com/brunomoraesdigital)
-
 
 ## Minha Missão
 
@@ -254,11 +252,30 @@ const BRUNO = {
   </td></tr>
 </table>
 
+### 🎯 Foco Atual
+- 🎮 Desenvolvimento de jogos com JavaScript
+- 🧠 Consolidação de lógica, estrutura e arquitetura
+- ✍️ Escrita técnica e projetos autorais
+- 📸 Exploração criativa fotografia e ilustração
+
+### 🧭 Roadmap Pessoal
+- [x] Fundamentos Web (HTML, CSS, JS)
+- [x] Jogos simples e experimentais
+- [ ] Projetos de jogos mais estruturados
+- [ ] Backend integrado aos projetos
+- [ ] Escrita de artigos e documentação
+
 ## Projetos em Destaque
 
 - 🔗 [My Journey - Landing Page](https://brunomoraesdigital.github.io/myjourney/) - Essa landing page foi pensada e desenvolvida por mim como parte do meu aprendizado em desenvolvimento web. Com um design inspirado em revista, ela destaca habilidades, projetos e experiências de forma visual e direta.
 - 🔗 [Pong Game](https://brunomoraesdigital.github.io/pong/) - Este é um joguinho do clássico Pong, foi desenvolvido como parte do meu aprendizado em desenvolvimento web, a fim de praticar o uso de JavaScript para manipulação de elementos no DOM e lógica de jogo, e melhorar as habilidades de design e responsividade com CSS e estruturar com HTML.
-- 🔗 [Projeto 3](link-para-o-projeto-3):
+- 🔗 [Projetos em evolução contínua](link-para-o-projeto-3):
+
+## 🛠️ Em Construção
+- 🎮 Jogo 2D em JavaScript
+- 🧪 Experimentos com lógica de jogo
+- 📸 Projetos visuais e criativos
+
 
 ## Entre em Contato
 - 💬 Vamos aprender juntos! Sinta-se à vontade para entrar em contato comigo.
@@ -268,13 +285,6 @@ const BRUNO = {
 ## Estatísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraesdigital&layout=compact&theme=dark)](https://github.com/brunomoraesdigital?tab=repositories)
-
-
-
-
-
-
-
 
 <p>
     <a href="https://wakatime.com/@018c2de4-3b42-4551-9268-9e1788c74b6f">
@@ -288,8 +298,12 @@ const BRUNO = {
 ## Repositórios
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/pong)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/dio-piano)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/calculadora-com-javascript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/dio-projeto-listagem-de-pokemon-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/myjourney)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/dio-memory-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomoraesdigital&repo=pong&theme=dark)](https://github.com/brunomoraesdigital/dio-detona-ralph)
 
 ## Se você gosta do meu conteúdo, considere apoiar o que eu faço. Obrigado.
 
