@@ -39,7 +39,7 @@ const BRUNO = {
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,angular,firebase,nodejs)](https://github.com/brunomoraesdigital)
 
-[![My Skills](https://skillicons.dev/icons?i=blender,unity,androidstudio,photoshop)](https://github.com/brunomoraesdigital)[<img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/lg-affinity.webp" alt="Affinity" width="48">](https://affinity.serif.com/designer/)
+[![My Skills](https://skillicons.dev/icons?i=blender,unity,androidstudio,photoshop)](https://github.com/brunomoraesdigital)[<img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/lg-affinity.webp" alt="Affinity" width="55">](https://affinity.serif.com/designer/)
 
 ## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/kazuma.png" width="50"></a> Minha Missão
 
