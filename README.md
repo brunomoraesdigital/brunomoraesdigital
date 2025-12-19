@@ -1,6 +1,6 @@
 # Boas Vindas ao meu perfil do GitHub! 👋
 
-## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/mago.png" width="35"></a> Sobre Mim
+## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/vivi-dance.gif" width="35"></a> Sobre Mim
 <a href="#">
   <img style="width: 150px" align="right" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/eu-3d.png">
 </a>
@@ -36,7 +36,7 @@ const BRUNO = {
 ````
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,cs,python,mysql,php,c,cpp,laravel,angular,firebase,nodejs)](https://github.com/brunomoraesdigital)
 
-## Minha Missão
+## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/kazuma.png" width="50"></a> Minha Missão
 
   <div>
     <p>🎯 Desenvolver soluções de código aberto destinadas a impactar positivamente a vida das pessoas, criar experiências envolventes e divertidas por meio de jogos acessíveis a todos, e compartilhar ativamente meu conhecimento e experiência através de artigos, tutoriais e conteúdo de desenvolvimento, contribuindo assim para um ecossistema tecnológico mais colaborativo e inovador.</p>
