@@ -272,3 +272,5 @@ const BRUNO = {
 
 ## ✨ Volte Sempre!
 ### Obrigado por visitar o meu perfil! 😊
+
+<img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/legend.jpg">
