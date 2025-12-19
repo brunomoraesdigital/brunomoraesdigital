@@ -46,16 +46,6 @@ const BRUNO = {
 
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th>Linguagens</th>
-    <th>Jornada</th>
-    <th>Linguagens</th>
-    <th>Jornada</th>
-    <th>Frameworks</th>
-    <th>Jornada</th>
-    <th>Softwares</th>
-    <th>Jornada</th>
-  </tr>
-  <tr>
     <td>HTML</td>
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
@@ -140,8 +130,8 @@ const BRUNO = {
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     </td>
-    <th>Plataforma</th>
-    <th>Jornada</th>
+    <td>Node.js</td>
+    <td>Jornada</td>
     <td>Android Studio</td>
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
@@ -168,7 +158,7 @@ const BRUNO = {
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     </td>
-    <td>Node.js</td>
+    <td>FireBase</td>
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
@@ -202,7 +192,7 @@ const BRUNO = {
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     </td>
-    <td>Firebase</td>
+    <td>GitHub</td>
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
@@ -210,7 +200,7 @@ const BRUNO = {
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     </td>
-    <td>GitHub</td>
+    <td>Blender</td>
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
@@ -220,6 +210,7 @@ const BRUNO = {
     </td>
   </tr>
 </table>
+
 
 
 
