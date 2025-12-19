@@ -21,6 +21,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-bruno.__moraes.__-E4405F?logo=instagram)](https://instagram.com/bruno._moraes._)
 [![TikTok](https://img.shields.io/badge/TikTok-bruno__moraes_-833AB4?logo=tiktok)](https://www.tiktok.com/@bruno_moraes_)
 
+
 ### <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Um pouco mais sobre mim...
 
 ```Javascript
@@ -34,7 +35,11 @@ const BRUNO = {
     desafios: "Superar os limites que a vida adulta impõe."
 };
 ````
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,cs,python,mysql,php,c,cpp,laravel,angular,firebase,nodejs)](https://github.com/brunomoraesdigital)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,cs,python,mysql,php,c,cpp)](https://github.com/brunomoraesdigital)
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,angular,firebase,nodejs)](https://github.com/brunomoraesdigital)
+
+[![My Skills](https://skillicons.dev/icons?i=blender,unity,androidstudio,photoshop)](https://github.com/brunomoraesdigital)[<img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/affinity.png" alt="Affinity" width="48">](https://affinity.serif.com/designer/)
 
 ## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/kazuma.png" width="50"></a> Minha Missão
 
