@@ -80,7 +80,7 @@ const BRUNO = {
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     </td>
-    <td>VS Code</td>
+    <td>Photoshop</td>
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
@@ -114,7 +114,7 @@ const BRUNO = {
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     </td>
-    <td>MySQL Workbench</td>
+    <td>Affinity</td>
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
@@ -142,7 +142,7 @@ const BRUNO = {
     </td>
     <th>Plataforma</th>
     <th>Jornada</th>
-    <td>Chrome DevTools</td>
+    <td>Android Studio</td>
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
