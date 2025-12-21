@@ -250,6 +250,12 @@ const BRUNO = {
 - [ ] Escrita → Documentação, Artigos e tutoriais
 - [ ] Design → Suporte visual para projetos (UI, assets e identidade)
 - [ ] Criativo -> fotografia e ilustração
+<a href="roadmap.md" style="text-decoration:none;">
+    <img
+        src="https://img.shields.io/badge/Roadmap-Abrir-blue"
+        alt="Abrir Roadmap"
+    >
+</a>
 
 ## 🧩 Projetos em Destaque
 
