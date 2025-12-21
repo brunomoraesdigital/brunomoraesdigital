@@ -51,6 +51,16 @@ const BRUNO = {
 
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
+    <th>🗺️</th>
+    <th>&nbsp;&nbsp;Jornada&nbsp;&nbsp;</th>
+    <th>🗺️</th>
+    <th>&nbsp;&nbsp;Jornada&nbsp;&nbsp;</th>
+    <th>🗺️</th>
+    <th>&nbsp;&nbsp;Jornada&nbsp;&nbsp;</th>
+    <th>🗺️</th>
+    <th>&nbsp;&nbsp;Jornada&nbsp;&nbsp;</th>
+  </tr>
+  <tr>
     <td>HTML</td>
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_1.png">
