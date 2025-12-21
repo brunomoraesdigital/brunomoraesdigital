@@ -274,6 +274,9 @@ const BRUNO = {
     </a>
 </p>
 
+![Última atualização README](https://img.shields.io/github/last-commit/brunomoraesdigital/brunomoraesdigital?path=README.md)
+
+
 ## 💬 Entre em Contato
 - Vamos aprender juntos! Sinta-se à vontade para entrar em contato comigo.
   - 🔗 [Website & portfólio](https://bmfolio.web.app/)
