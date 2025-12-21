@@ -73,7 +73,7 @@ const BRUNO = {
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
-      <img sty le="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
+      <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     </td>
