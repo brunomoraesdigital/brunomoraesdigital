@@ -242,11 +242,16 @@ const BRUNO = {
 - 📸 Exploração criativa fotografia e ilustração
 
 ### 🧭 Roadmap Pessoal
-- [x] Fundamentos Web (HTML, CSS, JS)
-- [x] Jogos simples e experimentais
-- [ ] Projetos de jogos mais estruturados
-- [ ] Backend integrado aos projetos
-- [ ] Escrita de artigos e documentação
+- [ ] Fundamentos Web → HTML, CSS, JS
+- [ ] Versionamento → GitHub
+- [ ] Web → Soluções simples, acessíveis e abertos
+- [ ] Jogos JS → simples e experimentais
+- [ ] Unity + C# → jogos multiplataforma (Desktop + Web + Android)
+- [ ] Android Studio + Kotlin → apps nativos simples → jogos nativos simples
+- [ ] Firebase → Backend inicial e hospedagem
+- [ ] PHP + SQL → Backend próprio integrado aos projetos
+- [ ] Escrita → Documentação, Artigos e tutoriais
+- [ ] Design → Suporte visual para projetos (UI, assets e identidade)
 
 ## 🧩 Projetos em Destaque
 
