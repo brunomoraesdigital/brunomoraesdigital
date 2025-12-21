@@ -236,8 +236,8 @@ const BRUNO = {
 
 
 ### 🎯 Foco Atual
-- 🎮 Desenvolvimento de jogos com JavaScript
 - 🧠 Consolidação de lógica, estrutura e arquitetura
+- 🎮 Desenvolvimento de jogos com JavaScript
 - ✍️ Escrita técnica e projetos autorais
 - 📸 Exploração criativa fotografia e ilustração
 
@@ -252,6 +252,7 @@ const BRUNO = {
 - [ ] PHP + SQL → Backend próprio integrado aos projetos
 - [ ] Escrita → Documentação, Artigos e tutoriais
 - [ ] Design → Suporte visual para projetos (UI, assets e identidade)
+- [ ] Criativo -> fotografia e ilustração
 
 ## 🧩 Projetos em Destaque
 
