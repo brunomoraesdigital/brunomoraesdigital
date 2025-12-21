@@ -47,7 +47,7 @@ const BRUNO = {
     <p>🎯 Desenvolver soluções de código aberto destinadas a impactar positivamente a vida das pessoas, criar experiências envolventes e divertidas por meio de jogos acessíveis a todos, e compartilhar ativamente meu conhecimento e experiência através de artigos, tutoriais e conteúdo de desenvolvimento, contribuindo assim para um ecossistema tecnológico mais colaborativo e inovador.</p>
   </div>
 
-## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/jornada.png" width="35"></a> Minha Jornada
+## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/jornada.png" width="35"></a> Minha Jornada (🚧 Em construção)
 
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
@@ -73,7 +73,7 @@ const BRUNO = {
     <td>
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
-      <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
+      <img sty le="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
       <img style="width: 10px" src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/heart_2.png">
     </td>
@@ -231,9 +231,6 @@ const BRUNO = {
     </td>
   </tr>
 </table>
-
-
-
 
 ### 🎯 Foco Atual
 - 🧠 Consolidação de lógica, estrutura e arquitetura
