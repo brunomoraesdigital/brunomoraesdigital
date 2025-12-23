@@ -1,6 +1,6 @@
 # Roadmap pessoal
 
-## Programação
+## 👨‍💻 Programação
 ### 👉 cada coisa entra no roadmap com um PAPEL, não como fase.
 - [ ] Fundamentos Web (HTML, CSS, JS)
 - [ ] Versionamento e organização com GitHub
@@ -21,30 +21,30 @@
 - [ ] Projetos de jogos mais estruturados
 - [ ] Integração Web / Jogos / Mobile
 
-## Escrita
-### ✍️ Artigos, documentação e compartilhamento (contínuo)
+## ✍️ Escrita
+### Artigos, documentação e compartilhamento (contínuo)
 - [x] Documentar projetos no GitHub (README)
 - [ ] Escrever artigos técnicos (aprendizados e decisões)
 - [ ] Criar tutoriais simples e acessíveis
 - [ ] Compartilhar conhecimento (posts, guias, exemplos)
 
-## Criação Visual
-### 🎨 Design e criação visual (transversal)
+## 🎨 Criação Visual
+### Design e criação visual (transversal)
 - [x] Fundamentos de design gráfico
 - [ ] Criação de assets simples
 - [ ] Identidade visual para projetos
       
-## Criativo
-### 📸 Exploração criativa (Complementar)
+## 📸 Criativo
+### Exploração criativa (Complementar)
 - [ ] Fotografia e ilustração
 
-## Concurso
+## 📚 Concurso
 ### 🚧 Em construção
 
-## 2º Graduação
+## 🎓 2º Graduação
 ### 🚧 Em construção
 
-## Pós Graduações
+## 🎓 Pós Graduações
 ### 🚧 Em construção
 
 ##
