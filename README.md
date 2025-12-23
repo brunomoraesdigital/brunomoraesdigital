@@ -280,13 +280,7 @@ const BRUNO = {
     </a>
 </p>
 
-![Última atualização README](https://img.shields.io/github/last-commit/brunomoraesdigital/brunomoraesdigital?path=README.md)
-
-
-## 💬 Entre em Contato
-- Vamos aprender juntos! Sinta-se à vontade para entrar em contato comigo.
-  - 🔗 [Website & portfólio](https://bmfolio.web.app/)
-  - 🔗 [Linkedin](https://www.linkedin.com/in/bruno-moraes-704728145/)
+![Última atualização README](https://img.shields.io/github/last-commit/brunomoraesdigital/brunomoraesdigital?path=README.md) [![Licença](https://img.shields.io/github/license/brunomoraesdigital/brunomoraesdigital)](LICENSE)
 
 ## 🤝 Se você gosta do meu conteúdo, considere apoiar o que eu faço. Obrigado.
 
