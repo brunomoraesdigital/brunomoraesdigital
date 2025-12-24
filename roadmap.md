@@ -2,8 +2,8 @@
 
 ## 👨‍💻 Programação
 ### 👉 cada coisa entra no roadmap com um PAPEL, não como fase.
-- [ ] Fundamentos Web (HTML, CSS, JS)
-- [ ] Versionamento e organização com GitHub
+- [x] Fundamentos Web (HTML, CSS, JS)
+- [x] Versionamento e organização com GitHub
 - [ ] Criar soluções simples, acessíveis e abertas (HTML, CSS, JS)
 - [ ] Escrita de artigos e documentação (paralelo)
 - [ ] Jogos simples e experimentais (JavaScript)
@@ -48,6 +48,9 @@
 ### 🚧 Em construção
 
 ##
+
+[![GitHub](https://img.shields.io/badge/GitHub-brunomoraesdigital-181717?logo=github)](https://github.com/brunomoraesdigital)
+
 <p>
     <img
         src="https://img.shields.io/github/last-commit/brunomoraesdigital/brunomoraesdigital?path=roadmap.md"
