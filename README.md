@@ -239,17 +239,19 @@ const BRUNO = {
 - 📸 Exploração criativa fotografia e ilustração
 
 ### 🧭 Roadmap Pessoal
-- [ ] Fundamentos Web → HTML, CSS, JS
-- [ ] Versionamento → GitHub
-- [ ] Web → Soluções simples, acessíveis e abertos
-- [ ] Jogos JS → simples e experimentais
-- [ ] Unity + C# → jogos multiplataforma (Desktop + Web + Android)
-- [ ] Android Studio + Kotlin → apps nativos simples → jogos nativos simples
-- [ ] Firebase → Backend inicial e hospedagem
-- [ ] PHP + SQL → Backend próprio integrado aos projetos
-- [ ] Escrita → Documentação, Artigos e tutoriais
-- [ ] Design → Suporte visual para projetos (UI, assets e identidade)
-- [ ] Criativo -> fotografia e ilustração
+
+- 🧱	Fundamentos Web → HTML, CSS, JS
+- 🐙	Versionamento → GitHub
+- 🌐	Web → Soluções simples, acessíveis e abertos
+- 🎮	Jogos JS → simples e experimentais e abertos
+- 🕹️	Unity + C# → jogos multiplataforma (Desktop + Web + Android)
+- 📱	Android Studio + Kotlin → apps nativos simples → jogos nativos simples
+- 🔥	Firebase → Backend inicial e hospedagem
+- 🧩	PHP + SQL → Backend próprio integrado aos projetos
+- ✍️	Escrita → Documentação, Artigos e tutoriais
+- 🎨	Design → Suporte visual para projetos (UI, assets e identidade)
+- 📸	Criativo -> fotografia e ilustração
+      
 <a href="roadmap.md" style="text-decoration:none;">
     <img
         src="https://img.shields.io/badge/Roadmap-Abrir-blue"
