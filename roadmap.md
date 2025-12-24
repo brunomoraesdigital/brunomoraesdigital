@@ -49,17 +49,10 @@
 
 ##
 
-[![GitHub](https://img.shields.io/badge/GitHub-brunomoraesdigital-181717?logo=github)](https://github.com/brunomoraesdigital)
-
-<p>
-    <img
-        src="https://img.shields.io/github/last-commit/brunomoraesdigital/brunomoraesdigital?path=roadmap.md"
-        alt="Última atualização Roadmap"
-    >
-    <img
-            src="https://visitor-badge.laobi.icu/badge?page_id=brunomoraesdigital?path=roadmap.md.visitor-badge"
-            alt="Bruno Moraes Digital"
-    >
-</p>
+[![Portfólio](https://img.shields.io/badge/Portfólio-bmfolio.web.app-F77737?logo=google-chrome)](https://bmfolio.web.app/?utm_source=github&utm_medium=repo_roadmap) 
+[![GitHub](https://img.shields.io/badge/GitHub-brunomoraesdigital-181717?logo=github)](https://github.com/brunomoraesdigital) 
+![Última atualização](https://img.shields.io/github/last-commit/brunomoraesdigital/brunomoraesdigital?path=roadmap.md) 
+![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_3.0-blue.svg) 
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=brunomoraesdigital.brunomoraesdigital.roadmap)
 
 
