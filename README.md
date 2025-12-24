@@ -15,12 +15,11 @@
    </ul>
 </div>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-bmfolio.web.app-F77737?logo=google-chrome)](https://bmfolio.web.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-bmfolio.web.app-F77737?logo=google-chrome)](https://bmfolio.web.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Moraes-0A66C2?logo=linkedin)](https://www.linkedin.com/in/bruno-moraes-704728145)
 [![YouTube](https://img.shields.io/badge/YouTube-@brunomoaes-FF0000?logo=youtube)](https://youtube.com/@brunomoaes)
 [![Instagram](https://img.shields.io/badge/Instagram-bruno.__moraes.__-E4405F?logo=instagram)](https://instagram.com/bruno._moraes._)
 [![TikTok](https://img.shields.io/badge/TikTok-bruno__moraes__-833AB4?logo=tiktok)](https://www.tiktok.com/@bruno_moraes_)
-
 
 ### <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Um pouco mais sobre mim...
 
@@ -283,10 +282,6 @@ const BRUNO = {
 </p>
 
 ![Última atualização README](https://img.shields.io/github/last-commit/brunomoraesdigital/brunomoraesdigital?path=README.md) [![Licença](https://img.shields.io/github/license/brunomoraesdigital/brunomoraesdigital)](LICENSE)
-
-[![🔗](https://img.shields.io/badge/-profile-blue)](https://bmfolio.web.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
-[![🔗](https://img.shields.io/badge/-repo-green)](https://bmfolio.web.app/?utm_source=github&utm_medium=repo&utm_campaign=portfolio)
-[![🔗](https://img.shields.io/badge/-readme-orange)](https://bmfolio.web.app/?utm_source=github&utm_medium=readme&utm_campaign=portfolio)
 
 ## 🤝 Se você gosta do meu conteúdo, considere apoiar o que eu faço. Obrigado.
 
