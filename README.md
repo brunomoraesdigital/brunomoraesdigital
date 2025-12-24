@@ -284,6 +284,10 @@ const BRUNO = {
 
 ![Última atualização README](https://img.shields.io/github/last-commit/brunomoraesdigital/brunomoraesdigital?path=README.md) [![Licença](https://img.shields.io/github/license/brunomoraesdigital/brunomoraesdigital)](LICENSE)
 
+[![🔗](https://img.shields.io/badge/-profile-blue)](https://bmfolio.web.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
+[![🔗](https://img.shields.io/badge/-repo-green)](https://bmfolio.web.app/?utm_source=github&utm_medium=repo&utm_campaign=portfolio)
+[![🔗](https://img.shields.io/badge/-readme-orange)](https://bmfolio.web.app/?utm_source=github&utm_medium=readme&utm_campaign=portfolio)
+
 ## 🤝 Se você gosta do meu conteúdo, considere apoiar o que eu faço. Obrigado.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O31CFDL8)
