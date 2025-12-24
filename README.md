@@ -239,7 +239,7 @@ const BRUNO = {
 - 📸 Exploração criativa fotografia e ilustração
 
 ### 🧭 Roadmap Pessoal
-
+👉 cada coisa entra no roadmap com um PAPEL, não como fase.
 - 🧱	Fundamentos Web → HTML, CSS, JS
 - 🐙	Versionamento → GitHub
 - 🌐	Web → Soluções simples, acessíveis e abertos
