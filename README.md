@@ -270,7 +270,7 @@ const BRUNO = {
 
 ## 📊 Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoraesdigital&layout=compact&theme=dark)](https://github.com/brunomoraesdigital?tab=repositories)
+[![Top Langs](https://github-readme-stats-seven-sable-81.vercel.app/api/top-langs/?username=brunomoraesdigital&layout=compact&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io,ressources&langs_count=8)](https://github.com/brunomoraesdigital?tab=repositories)
 
 <p>
     <a href="https://wakatime.com/@018c2de4-3b42-4551-9268-9e1788c74b6f">
