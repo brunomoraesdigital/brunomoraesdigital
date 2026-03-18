@@ -22,13 +22,12 @@
    </ul>
 </div>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-bmfolio.web.app-F77737?logo=rocket&logoColor=white)](https://bmfolio.web.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
-[![LinkedIn](https://img.shields.io/badge/in_LinkedIn-Bruno%20Moraes-0A66C2)](https://www.linkedin.com/in/bruno-moraes-704728145)
-[![YouTube](https://img.shields.io/badge/YouTube-@brunomoaes-FF0000?logo=youtube)](https://youtube.com/@brunomoaes)
-[![Instagram](https://img.shields.io/badge/Instagram-bruno.__moraes.__-E4405F?logo=instagram)](https://instagram.com/bruno._moraes._)
-[![TikTok](https://img.shields.io/badge/TikTok-bruno__moraes__-833AB4?logo=tiktok)](https://www.tiktok.com/@bruno_moraes_)
-
-## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Entre o que eu já sei e o que estou aprendendo, tem isso daí ...
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=in&logoColor=white" />](https://www.linkedin.com/in/bruno-moraes-704728145)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/bruno._moraes._)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@brunomoaes)
+[<img src="https://img.shields.io/badge/TikTok-833AB4?style=for-the-badge&logo=tiktok&logoColor=white" />](https://www.tiktok.com/@bruno_moraes_)
+[<img src="https://img.shields.io/badge/Portfólio-F77737?style=for-the-badge&logo=rocket&logoColor=white" />](https://bmfolio.web.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
+## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> Entre o que eu já sei e o que estou aprendendo, tem isso aí ...
 
 <br>
 
