@@ -3,8 +3,8 @@
 <div align="center">
   <img src="https://github.com/brunomoraesdigital/ressources/blob/main/eu.png?raw=true" width="250" style="border-radius: 50%;" alt="natsume-schwartz">
   
-  ### 🚀 Desenvolvedor de Software | Artista Digital | Criador Visinário
-  *"Sou um programador por diversão"*
+  ### 🚀 Desenvolvedor de Software | 🎨 Artista Digital | Criador Visinário
+  *"Sou programador por diversão"*
 </div>
 
 ## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/vivi-dance.gif" width="35"></a> Sobre Mim
@@ -78,7 +78,7 @@
 - 🔗 [My Journey - Landing Page](https://brunomoraesdigital.github.io/myjourney/) - Essa landing page foi pensada e desenvolvida por mim como parte do meu aprendizado em desenvolvimento web. Com um design inspirado em revista, ela destaca habilidades, projetos e experiências de forma visual e direta.
 - 🔗 [Pong Game](https://brunomoraesdigital.github.io/pong/) - Este é um joguinho do clássico Pong, foi desenvolvido como parte do meu aprendizado em desenvolvimento web, a fim de praticar o uso de JavaScript para manipulação de elementos no DOM e lógica de jogo, e melhorar as habilidades de design e responsividade com CSS e estruturar com HTML.
 
-## 🛠️ Em Construção
+## 🛠️ No Momento
 - 🎮 Jogo 2D em JavaScript
 - 🧪 Experimentos com lógica de jogo
 - 📸 Projetos visuais e criativos
