@@ -106,3 +106,9 @@
 ### Obrigado por visitar o meu perfil! 😊
 
 <img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/legend.jpg">
+
+<div align="center">
+  <br>
+  <i>"Vivendo no presente, construindo o futuro"</i>
+</div>
+
