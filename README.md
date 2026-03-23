@@ -40,7 +40,7 @@
 ## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/kazuma.png" width="50"></a> Minha Missão
 
   <div>
-    <p>🎯 Desenvolver soluções de código aberto destinadas a impactar positivamente a vida das pessoas, criar experiências envolventes e divertidas por meio de jogos acessíveis a todos, e compartilhar ativamente meu conhecimento e experiência através de artigos, tutoriais e conteúdo de desenvolvimento, contribuindo assim para um ecossistema tecnológico mais colaborativo e inovador.</p>
+    <p>🎯 Desenvolver soluções de código aberto que melhorem a vida das pessoas, criar jogos acessíveis e envolventes, e compartilhar conhecimento por meio de conteúdos que fortaleçam um ecossistema tecnológico mais colaborativo e inovador.</p>
   </div>
 
 ## <a href="https://brunomoraesdigital.github.io/brunomoraesdigital/"><img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/jornada.png" width="35"></a> Minha Jornada (🚧 Em construção)
