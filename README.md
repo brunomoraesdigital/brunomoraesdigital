@@ -1,7 +1,7 @@
 # Boas Vindas ao meu perfil do GitHub! 👋
 
 <div align="center">
-  <img src="https://github.com/brunomoraesdigital/ressources/blob/main/eu.png?raw=true" width="250" style="border-radius: 50%;" alt="natsume-schwartz">
+  <img src="https://github.com/brunomoraesdigital/ressources/blob/main/eu.jpg?raw=true" width="250" style="border-radius: 50%;" alt="natsume-schwartz">
   
   ### 🚀 Desenvolvedor de Software | 🎨 Artista Digital | ✨ Criador Visinário
   *"Sou programador por diversão"*
