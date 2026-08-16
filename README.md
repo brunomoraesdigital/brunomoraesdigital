@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/brunomoraesdigital/ressources/blob/main/eu2.png?raw=true" width="250" style="border-radius: 50%;" alt="natsume-schwartz">
   
-  ### 🚀 Desenvolvedor web, sistemas, aplicativos e softwares | 🎨 Artista Digital | ✨ Humanista
+  ### 🚀 Desenvolvedor digital | 🎨 Artista Digital | ✨ Humanista
   *"Sou programador por diversão"*
 </div>
 
