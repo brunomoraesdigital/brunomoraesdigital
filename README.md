@@ -16,7 +16,7 @@
       <li>👨‍💻 Me chamo Bruno Moraes</li>
       <li>🌎 Sou de Brasília, Brasil.</li>
       <li>👔 Trabalho como servidor público.</li>
-      <li>✨ Programação é meu passatempo favorito, mas também gosto de ler livros e mangas</li>
+      <li>✨ Programação é meu passatempo favorito, mas também gosto de ler livros e mangás</li>
       <!--<li>📚 Em meio às responsabilidades e exigências diárias, procuro encontrar espaço para continuar me desenvolvendo como profissional digital.</li>-->
       <li>📷 Explorando o mundo da fotografia a fim de aprimorar minhas habilidades também nessa área.</li>
    </ul>
@@ -50,21 +50,21 @@
 - 🎮 Explorar o desenvolvimento de jogos.
 - 🧠 Consolidação de lógica, estrutura e arquitetura
 - ✍️ Escrita técnica e projetos autorais
-- 📸 Exploração criativa fotografia e ilustração
+- 📸 Exploração criativa de fotografia e ilustração
 
 ### 🧭 Roadmap Pessoal
 👉 cada coisa entra no roadmap com um PAPEL, não como fase.
 - 🧱	Fundamentos Web → HTML, CSS, JS
 - 🐙	Versionamento → GitHub
-- 🌐	Web → Soluções simples, acessíveis e abertos
-- 🎮	Jogos JS → simples e experimentais e abertos
+- 🌐	Web → Soluções simples, acessíveis e abertas
+- 🎮	Jogos JS → simples e experimentais e abertas
 - 🕹️	Unity + C# → jogos multiplataforma (Desktop + Web + Android)
 - 📱	Android Studio + Kotlin → apps nativos simples → jogos nativos simples
 - 🔥	Firebase → Backend inicial e hospedagem
 - 🧩	PHP + SQL → Backend próprio integrado aos projetos
 - ✍️	Escrita → Documentação, Artigos e tutoriais
 - 🎨	Design → Suporte visual para projetos (UI, assets e identidade)
-- 📸	Criativo -> fotografia e ilustração
+- 📸	Criativo -> Fotografia e ilustração
       
 <a href="roadmap.md" style="text-decoration:none;">
     <img
@@ -102,7 +102,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O31CFDL8)
 
-## ✨ Volte Sempre!
+## ✨ Volte sempre!
 ### Obrigado por visitar o meu perfil! 😊
 
 <img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/legend.jpg">
