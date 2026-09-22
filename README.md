@@ -1,4 +1,4 @@
-# Boas Vindas ao meu perfil do GitHub! 👋
+# Boas-vindas ao meu perfil do GitHub! 👋
 
 <div align="center">
   <img src="https://github.com/brunomoraesdigital/ressources/blob/main/eu.png?raw=true" width="250" style="border-radius: 50%;" alt="natsume-schwartz">
